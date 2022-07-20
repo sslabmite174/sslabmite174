@@ -28,4 +28,4 @@ Skills: All lab programs
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=sslabmite174)  
 
-![Profile views](https://gpvc.arturio.dev/sslabmite174)  
+![Profile views](https://gpvc.arturio.dev/Varshithvhegde)  
